@@ -21,3 +21,7 @@ Insights that can support disaster preparedness and early warning systems.
 📌 This project is not just about coding – it’s about solving a real-world problem using data science and machine learning.
 
 If you’re interested in disaster prediction, climate-related data analysis, or ML applications in environmental studies, you’ll definitely find this useful. 🌍✨
+
+<img width="599" height="564" alt="Screenshot 2025-08-19 133800" src="https://github.com/user-attachments/assets/d3ad8099-4bae-48c0-b377-b63eaf5b6cce" />
+
+<img width="382" height="452" alt="Screenshot 2025-08-19 133810" src="https://github.com/user-attachments/assets/2aabff3f-77cf-4e02-a5db-9d73aa29ea2c" />
