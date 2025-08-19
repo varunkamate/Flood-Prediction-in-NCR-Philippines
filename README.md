@@ -16,6 +16,8 @@ Evaluated model performance with accuracy, precision, recall, and F1-score.
 
 Insights that can support disaster preparedness and early warning systems.
 
+<img width="1195" height="741" alt="Screenshot 2025-08-19 133727" src="https://github.com/user-attachments/assets/9517c147-1a68-4ea7-8937-27f65efa157d" />
+
 📌 This project is not just about coding – it’s about solving a real-world problem using data science and machine learning.
 
 If you’re interested in disaster prediction, climate-related data analysis, or ML applications in environmental studies, you’ll definitely find this useful. 🌍✨
